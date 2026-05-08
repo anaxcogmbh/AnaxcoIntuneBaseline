@@ -53,8 +53,6 @@ Each rule is configured as follows and has rules for both 32-bit and 64-bit bina
     
 This addition was driven by a new Defender Secure Score recommendation ([MC1266905](https://mc.merill.net/message/MC1266905)) specifically for mshta.exe, with calc and notepad being suggestions by MVP Jay Kerai ([@jkerai1](https://github.com/jkerai1))
 
-> [!NOTE]
-> As of publishing this, Defender seems to be ignoring this as a remediation being delivered by Intune. I have raised a bug to the Product Group.
 
 ## Changed/Updated 🔄️
 ### Settings Catalog
